@@ -1,20 +1,20 @@
 ---
-title: Against the Clock - Materials
+title: Wyścig z czasem - Materiały
 layout: project-materials
 project-resources:
 volunteer-resources:
   - url: https://www.microbit.co.uk/lshyvy
     type: link
     text: microbit.co.uk/lshyvy
-    description: online completed project
+    description: wersja online ukończonego projektu
   - url: Timer.hex
     type: file
-    description: .hex project file to transfer onto your micro:bit
+    description: plik projektu .hex do wysłania do Twojego micro:bita
   - url: https://www.microbit.co.uk/jvxajr
     type: link
     text: microbit.co.uk/jvxajr
-    description: online completed "Counting Down" challenge
+    description: wersja online ukończonego wyzwania "Odliczanie"
   - url: CountingDown.hex
     type: file
-    description: .hex file for the completed "Counting Down" challenge
+    description: plik projektu .hex ukończonego wyzwania "Odliczanie"
 ---
